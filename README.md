@@ -3,18 +3,16 @@
 I’m passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection and incident response, these projects allow me to dive deep into the ever-evolving landscape of security to strengthen systems and protect digital environments.
 
 Please feel free to explore my repositories and see the work I’ve put into enhancing security operations and processes!
-
+## 🔐 Security lab projects
+- **[TryHackMe — Neighbour](https://github.com/AbenezerLegesse/Tryhackme-lab)**
+- **[Cybersecurity Lab (home lab "Proxmox server") ](https://github.com/AbenezerLegesse/Cyber-Lab)**
+  
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation]()**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
-
-## 🔐 Security lab projects
-- **[TryHackMe — Neighbour](https://github.com/AbenezerLegesse/Tryhackme-lab)**
-- **[Cybersecurity Lab (home lab "Proxmox server") ](https://github.com/AbenezerLegesse/Cyber-Lab)**
-
 
 ## 🧑‍💻 Software Development & Web Application  projects
 - **[Number-Prediction](https://github.com/AbenezerLegesse/number-prediction)**
