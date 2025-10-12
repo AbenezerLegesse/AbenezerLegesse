@@ -20,3 +20,7 @@ Please feel free to explore my repositories and see the work I’ve put into enh
 
 <hr/>
 
+## 🤳 Connect With Me
+
+
+<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BmARDm3iMQz%2B2WAuuZEGeCw%3D%3D">linkedin</a>
