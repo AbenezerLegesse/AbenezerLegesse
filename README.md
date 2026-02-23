@@ -10,7 +10,7 @@ Please feel free to explore my repositories and see the work I’ve put into enh
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation]()**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
-- **[Scanning Windows: Authenticated vs Unauthenticated]()**
+- **[Scanning Windows: Authenticated vs Unauthenticated](https://github.com/AbenezerLegesse/Scanning-Windows-Authenticated-vs-Unauthenticated/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
