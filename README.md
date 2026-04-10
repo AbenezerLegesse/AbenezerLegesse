@@ -13,6 +13,7 @@ Please feel free to explore my repositories and see the work I’ve put into enh
 - **[Scanning Windows: Authenticated vs Unauthenticated](https://github.com/AbenezerLegesse/Scanning-Windows-Authenticated-vs-Unauthenticated/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
+- **[Devices Exposed to the Internet](https://github.com/AbenezerLegesse/Threat-Hunting-and-Security-Operations/tree/main/Devices%20Exposed%20to%20the%20Internet)**
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 ## 🧑‍💻 Software Development & Web Application  projects
