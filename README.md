@@ -14,6 +14,8 @@ Please feel free to explore my repositories and see the work I’ve put into enh
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Devices Exposed to the Internet](https://github.com/AbenezerLegesse/Threat-Hunting-and-Security-Operations/tree/main/Devices%20Exposed%20to%20the%20Internet)**
+- **[Data Exfiltration Simulation & Investigation)](https://github.com/AbenezerLegesse/Threat-Hunting-and-Security-Operations/tree/main/Data-Exfiltration-from-PIPd-Employee)**
+- **[TSudden Network Slowdowns](https://github.com/AbenezerLegesse/Threat-Hunting-and-Security-Operations/tree/main/Sudden%20Network%20Slowdowns)**
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 ## 🧑‍💻 Software Development & Web Application  projects
